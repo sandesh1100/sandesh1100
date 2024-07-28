@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandesh1100
-- 👀 I’m interested in Development.
+- 👀 I’m interested in Mobile App Development.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me here's my linkedIN profile - https://www.linkedin.com/in/sandeshbais/
